@@ -1,0 +1,16 @@
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\Mission2.exe
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\Mission2.deps.json
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\Mission2.runtimeconfig.json
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\Mission2.runtimeconfig.dev.json
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\Mission2.dll
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\ref\Mission2.dll
+C:\Users\camer\source\repos\Mission2\Mission2\bin\Debug\net5.0\Mission2.pdb
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.csproj.AssemblyReference.cache
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.AssemblyInfoInputs.cache
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.AssemblyInfo.cs
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.csproj.CoreCompileInputs.cache
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.dll
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\ref\Mission2.dll
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.pdb
+C:\Users\camer\source\repos\Mission2\Mission2\obj\Debug\net5.0\Mission2.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yJjCV9OPL9x1RVgI5qoOmstOUWEPeneh65u+bax/FwCC3eMUlCrA1YvpGWNYt/719vU/HrtYVttgYQDIdY7L9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camer\\source\\repos\\Mission2\\Mission2\\Mission2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
